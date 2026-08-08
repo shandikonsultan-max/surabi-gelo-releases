@@ -12,6 +12,7 @@ lalu mengunduh APK dari sini.
 
 | Versi | Build | Berkas |
 |---|---|---|
+| 1.3.7 | 83 | `surabi-gelo-83.apk` |
 | 1.3.6 | 82 | `surabi-gelo-82.apk` |
 | 1.3.5 | 81 | `surabi-gelo-81.apk` |
 | 1.3.4 | 80 | `surabi-gelo-80.apk` |
