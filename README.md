@@ -12,7 +12,7 @@ lalu mengunduh APK dari sini.
 
 | Versi | Build | Berkas |
 |---|---|---|
-| 1.6.1 | 100 | `surabi-gelo-100.apk` (BELUM dirilis — latest.json masih 99) |
+| 1.6.1 | 100 | `surabi-gelo-100.apk` |
 | 1.6.0 | 99 | `surabi-gelo-99.apk` |
 | 1.5.2 | 98 | `surabi-gelo-98.apk` |
 | 1.5.0 | 96 | `surabi-gelo-96.apk` |
